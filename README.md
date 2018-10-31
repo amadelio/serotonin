@@ -1,2 +1,2 @@
-# serotonin
+# Serotonin
 Serotonin for Reddit
